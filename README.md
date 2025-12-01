@@ -7,7 +7,7 @@
 ###
 ###
 
-<h2 align="left">💻 Skills</h2>
+</h2>
 
 ###
 
